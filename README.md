@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20world%20!)
 
+<a href="(https://www.instagram.com/2_c__young/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 ## Introduction
 #### I am a sophomore in Yeongnam University.
 #### I am studying C++ these days.
